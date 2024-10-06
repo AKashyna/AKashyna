@@ -7,7 +7,7 @@ I am a beginner programmer eager to take on new challenges to develop my skills 
 - 🌱 I’m currently learning JavaScript
 - ⚡Programming languages: Python, CSS, C
 - 💬 Languages: I'm fluent in English and Polish
-- 📫 How to reach me: my email address is agata.kashyna@gmail.com
+- 📫 How to reach me: my email address is www.linkedin.com/in/agata-kashyna
 <!--
 **AKashyna/AKashyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
