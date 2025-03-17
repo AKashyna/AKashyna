@@ -10,6 +10,7 @@ I am a beginner programmer eager to take on new challenges to develop my skills 
 - 📫 How to reach me:   
   Email address : agata.kashyna@gmail.com  
   LinkedIn : www.linkedin.com/in/agata-kashyna
+  LeetCode : https://leetcode.com/u/akashyna/
 <!--
 **AKashyna/AKashyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
