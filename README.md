@@ -8,9 +8,9 @@ I am a beginner programmer eager to take on new challenges to develop my skills 
 - ⚡Programming languages: Python, CSS, C, SQL
 - 💬 Languages: I'm fluent in English and Polish
 - 📫 How to reach me:   
-  Email address : agata.kashyna@gmail.com  
+  Email address : agata.kashyna@gmail.com    
+  LeetCode : https://leetcode.com/u/akashyna/  
   LinkedIn : www.linkedin.com/in/agata-kashyna
-  LeetCode : https://leetcode.com/u/akashyna/
 <!--
 **AKashyna/AKashyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
